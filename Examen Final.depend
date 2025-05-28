@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1748449856 source:c:\users\usuario\onedrive - universidad mariano gálvez\documentos\programación i\examen final\examen final\examen final\src\seguridad.cpp
+	"seguridad.h"
+	<fstream>
+	<iostream>
+	<ctime>
+	<cstring>
+
+1748449844 c:\users\usuario\onedrive - universidad mariano gálvez\documentos\programación i\examen final\examen final\examen final\include\seguridad.h
+
+1748451154 source:c:\users\usuario\onedrive - universidad mariano gálvez\documentos\programación i\examen final\examen final\examen final\src\usuario.cpp
+	"usuario.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1748449826 c:\users\usuario\onedrive - universidad mariano gálvez\documentos\programación i\examen final\examen final\examen final\include\usuario.h
+
+1748451116 source:c:\users\usuario\onedrive - universidad mariano gálvez\documentos\programación i\examen final\examen final\examen final\main.cpp
+	<iostream>
+	"usuario.h"
+	"menu.h"
+
+1748450049 c:\users\usuario\onedrive - universidad mariano gálvez\documentos\programación i\examen final\examen final\examen final\include\menu.h
+	"usuario.h"
+
+1748450033 source:c:\users\usuario\onedrive - universidad mariano gálvez\documentos\programación i\examen final\examen final\examen final\src\catalogo.cpp
+	"catalogo.h"
+	"seguridad.h"
+	<iostream>
+	<fstream>
+	<cstring>
+
+1748450045 c:\users\usuario\onedrive - universidad mariano gálvez\documentos\programación i\examen final\examen final\examen final\include\catalogo.h
+	"usuario.h"
+
+1748450111 source:c:\users\usuario\onedrive - universidad mariano gálvez\documentos\programación i\examen final\examen final\examen final\src\menu.cpp
+	"menu.h"
+	"seguridad.h"
+	"catalogo.h"
+	<iostream>
+
